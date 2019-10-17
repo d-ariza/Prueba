@@ -1,0 +1,12 @@
+#python
+
+*.pyc
+__pycache__/
+
+#java
+
+*.class
+
+#todo
+
+todo.todo
